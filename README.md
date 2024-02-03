@@ -1,4 +1,4 @@
-Hi, my real name Aryel, like the little marmeid.
+Hi, my real name is Aryel, like the little marmeid.
 
 <!---
 Mog3g3/Mog3g3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
